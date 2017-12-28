@@ -1,0 +1,11 @@
+1.create a folder say angular-demo
+2.right click and click on git bash here
+
+3.type command - git clone https://github.com/jmcooper/ng2-fundamentals.git
+
+4.in visual studio code - click on open folder and select - D:\prk\angular_demo\ng2-fundamentals
+5. npm install
+
+
+
+
